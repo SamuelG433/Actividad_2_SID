@@ -1,0 +1,23 @@
+{
+  "users": [
+    { "id": 1, "username": "Goku",   "state": "online",  "deck": [1, 3, 5, 9] },
+    { "id": 2, "username": "Vegeta", "state": "busy",    "deck": [2, 4, 6, 8] },
+    { "id": 3, "username": "Gohan",  "state": "offline", "deck": [7, 10, 11, 12] }
+   
+
+  ],
+  "cards": [
+    { "id": 1,  "name": "Kamehameha" },
+    { "id": 2,  "name": "Final Flash" },
+    { "id": 3,  "name": "Genki Dama" },
+    { "id": 4,  "name": "Big Bang Attack" },
+    { "id": 5,  "name": "Kaioken" },
+    { "id": 6,  "name": "Galick Gun" },
+    { "id": 7,  "name": "Masenko" },
+    { "id": 8,  "name": "Atomic Blast" },
+    { "id": 9,  "name": "Instant Transmission" },
+    { "id": 10, "name": "SSJ Transformation" },
+    { "id": 11, "name": "Z-Sword Slash" },
+    { "id": 12, "name": "Potential Unleashed" }
+  ]
+}
